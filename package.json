@@ -1,0 +1,19 @@
+{
+  "name": "300123_test",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/VladyBarvy/300123_test.git"
+  },
+  "author": "VladyBarvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladyBarvy/300123_test/issues"
+  },
+  "homepage": "https://github.com/VladyBarvy/300123_test#readme"
+}
